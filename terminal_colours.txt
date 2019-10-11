@@ -1,0 +1,14 @@
+Font: Andale Mono Regular 12
+
+Foreground: c4b4ff
+Background: 2a2634
+Bold: c4b5ff
+Links: 005bbb
+
+Selection: 444158
+Selected text: c4b5ff
+Badge: ff2600
+
+Cursor: ffa847
+Cursor text: 2a2634
+Cursor guide: b3ecff
