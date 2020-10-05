@@ -1,0 +1,5 @@
+Simple subl symlink
+`sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl`
+
+Set git core editor
+`git config --global core.editor "subl -n -w"`
